@@ -1,5 +1,7 @@
 // scripts.js
 
 var name = prompt('What is your name?');
-alert('Hello, ' + 'Kaja');
-console.log('Hello, ' + 'Kaja');
+alert('Hello ' + name);
+console.log('Hello ' + name);
+
+
